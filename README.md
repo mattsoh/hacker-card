@@ -13,8 +13,11 @@ I made this project after seeing so many other Hack Clubbers have similar Hacker
 ## BOM Table
 
 220nF	C1	C0603	1	CL10B224KA8NNNC	SAMSUNG(三星)	LCSC	C21120	0.006
+
 0805G (Green)	LED1	LED0805-R-RD	1	KT-0805G	KENTO	LCSC	C2297	0.011
+
 47Ω	R1	R0603	1	0603WAF470JT5E	UNI-ROYAL(厚声)	LCSC	C23182	0.001
+
 NT3H2111W0FHKH	U1	XQFN-8_L1.6-W1.6-P0.50-BL	1	NT3H2111W0FHKH	NXP(恩智浦)	LCSC	C710403	0.886
 
 ## journal.md file (which is in journal.md)
