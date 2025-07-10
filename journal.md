@@ -19,7 +19,7 @@ Took some time finding the button!
 
 Not easy... apparently the other stuff shouldn't be in the antenna or something else like that. I also tried to autoroute and that failed, and so I had to rearrange a lot of other stuff.
 
-![auto-routed and arranged!](https://hc-cdn.hel1.your-objectstorage.com/s/v3/885b4e7d1a26f12d933f98edc143c8e1c5387f3c_screenshot_2025-07-10_at_1.26.02___pm.png)
+![auto-routed and arranged!](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f5a6abeb7b471b17c2621cf44808d06d60c4316_screenshot_2025-07-10_at_1.44.35___pm.png)
 
 ## 4. Finishing touches! - 10 mins
 
